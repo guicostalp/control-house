@@ -1,4 +1,5 @@
 # Start app locally
+Define .env variables on app and server.
 Start server with npm run dev to check Mongo connection and whitelist ip on website if necessary
 Start app with npm run dev. If no data shown, check Mongo connection.
 Dashboard 1 is template
